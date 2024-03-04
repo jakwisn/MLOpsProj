@@ -1,5 +1,5 @@
 # MLOpsProj
-
+![image](https://github.com/jakwisn/MLOpsProj/blob/main/reports/figures/Illustration.png)
 ## Goal of the project 
 The project aims to classify facial expressions into 7 categories: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral. In detail the user will be able to upload a picture of a 
 face and the model will classify the facial expression into one of the 7 different categories. 
